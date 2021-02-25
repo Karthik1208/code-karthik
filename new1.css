@@ -1,0 +1,31 @@
+body{
+    background:lightblue  no-repeat;
+	background-size:cover;
+  background-attachment:fixed;
+}
+.wrapper{
+  width:95%;
+  min-width:100px;
+  overflow:auto;
+  margin:0 auto;
+  
+  }
+p{
+  color:black; 
+  text-indent:20% ; 
+  border:thick solid red;
+  padding:20px 10px 20px 10px;
+  margin:40px 0;
+}
+img{
+    width:50%;
+    height:10%;
+    }
+.temple{
+  list-style: inside,disk;
+} 
+h1{
+  text-shadow:2px 2px 1px green ;
+  text-decoration: underline;
+  text-transform:capitalize;
+}   
