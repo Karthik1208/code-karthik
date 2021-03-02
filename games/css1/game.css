@@ -36,7 +36,7 @@ a{
     text-transform: uppercase;
 }
 a:hover{
-    color: #ooo;
+    color: red;
 
 }
 .page{
